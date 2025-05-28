@@ -6,31 +6,31 @@ Daily Memory Manager is a simple yet functional command-line Python application 
 
 🔑 Features
 
-.User registration and login system
+. User registration and login system
 
-.Secure session handling (single user session at a time)
+. Secure session handling (single user session at a time)
 
-.Add, view, and delete personal memories
+. Add, view, and delete personal memories
 
-.Each memory includes a title, content, and timestamp
+. Each memory includes a title, content, and timestamp
 
-.Clean and interactive command-line interface
+. Clean and interactive command-line interface
 
 📌 Technologies
 
-.Python 3.x
+. Python 3.x
 
-.Built-in datetime module
+. Built-in datetime module
 
-.No third-party dependencies
+. No third-party dependencies
 
 
 🧠 Use Case
 
-.This project is ideal for:
+. This project is ideal for:
 
-.Beginners learning Python and CLI application development
+. Beginners learning Python and CLI application development
 
-.Demonstrating user authentication and memory storage logic
+. Demonstrating user authentication and memory storage logic
 
-.Personal diary or journaling experiments
+. Personal diary or journaling experiments
